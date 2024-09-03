@@ -7,3 +7,6 @@ def fibonacci(n: int) -> int:
     return n
   return fibonacci(n - 1) + fibonacci(n - 2)
 ```
+- [ ] Pass 18661
+- [ ] Pass 18763
+- [ ] Pass 18989
